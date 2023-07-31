@@ -13,10 +13,12 @@ This repository contains Jupyter notebooks for performing visual social media an
 ## Articles
 
 - ["Getting Started with Instagram Analysis: Instaloader"](https://medium.com/@michael.achmann/getting-started-with-instagram-analysis-instaloader-bbf686cb6e3b) - An introduction to data collection using ["Instaloader"](https://instaloader.github.io/)
+- ["CrowdTangle for Instagram Analysis: A Step-by-Step Guide for Beginners"](https://achmann.dev/crowdtangle-for-instagram-analysis-a-step-by-step-guide-for-beginners-6d4f1f8cb0a3) - How to use [CrowdTangle](https://www.crowdtangle.com/) for retrospective data collection.
 
 ## Notebooks
 
-- `01_DataCollection.ipynb.ipynb` - A notebook demonstrating how to download posts from Instagram using Instaloader.
+- `01_DataCollection.ipynb` - A notebook demonstrating how to download posts from Instagram using Instaloader.
+- `02_CrowdTanlgeDownload.ipynb` - A notebook demonstrating how to download Instagram post images from a CrowdTangle dataframe.
 
 ## Contributing
 

@@ -1,4 +1,6 @@
-# Tutorials for Computational Analysis of Visual Social Media
+# Tutorials for Computational Analysis of Visual Social Media [![DOI](https://zenodo.org/badge/573008138.svg)](https://zenodo.org/badge/latestdoi/573008138)
+
+
 ![A robot conducting visual social media analysis](https://user-images.githubusercontent.com/8556092/229534426-846f4b4d-61b6-499b-8465-65e93b278c35.png)
 
 This repository contains Jupyter notebooks for performing visual social media analysis. The notebooks provide step-by-step instructions for collecting, processing, and analyzing visual media data from social media platforms such as Instagram.
@@ -23,6 +25,27 @@ This repository contains Jupyter notebooks for performing visual social media an
 ## Contributing
 
 Contributions to this repository are welcome! If you would like to contribute, please submit a pull request with your proposed changes.
+
+## Citation
+
+I'd appreciate a citation if you're using the tutorials and notebooks in your research.
+
+```
+Michael Achmann. (2023). michaelachmann/ig-tutorial: First Release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.8199595
+```
+
+```bibtex
+@software{michael_achmann_2023_8199595,
+  author       = {Michael Achmann},
+  title        = {michaelachmann/ig-tutorial: First Release},
+  month        = jul,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.8199595},
+  url          = {https://doi.org/10.5281/zenodo.8199595}
+}
+```
 
 ## License
 
